@@ -80,3 +80,8 @@ git branch branch_name
 
 git branch
 
+# Удаление ветки
+
+Чтобы удалить ветку в гите, нужно выполнить комаду:
+
+git branch -d branch_name

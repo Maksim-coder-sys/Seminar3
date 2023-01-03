@@ -80,3 +80,8 @@ git branch branch_name
 
 git branch
 
+## Переход с ветки на ветку
+
+Чтобы перейти с ветки на ветку используется команда:
+
+git checkout

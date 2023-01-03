@@ -86,3 +86,5 @@ git branch
 
 git merge branch_name
 
+
+Это были основные команды по веткам

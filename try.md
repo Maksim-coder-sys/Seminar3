@@ -103,3 +103,12 @@ git merge branch_name
 Чтобы удалить ветку которая больше не нужна нужно выполнить команду:
 
 git branch -d <имя ветки>
+
+## Удаленные репозитории
+
+Чтобы создать удаленный репозитории нужно зайти в свою учетную запись github, создать новый репозиторий, в терминале выполнить команды котырые предлагает github, такого типа:
+
+it remote add origin https://github.com/Maksim-coder-sys/SeminarC-_2.git
+git branch -M master
+git push -u origin master
+

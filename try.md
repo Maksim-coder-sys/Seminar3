@@ -112,3 +112,8 @@ it remote add origin https://github.com/Maksim-coder-sys/SeminarC-_2.git
 git branch -M master
 git push -u origin master
 
+### Добавление commitов с локального репозитория в удаленнный
+
+Для того,чтобы добавить commitы с локального в удаленный репозиторий, нужно выполнить команду:
+
+git push
